@@ -17,5 +17,13 @@ The directory LeetCode 75 Study Plan contains my solutions for [this study plan]
 | [334. Increasing Triplet Subsequence](https://leetcode.com/problems/increasing-triplet-subsequence/)                     | Medium     | [C#](https://github.com/JustKirpro/LeetCode-Solutions/blob/main/LeetCode%2075%20Study%20Plan/Array%20%3A%20String/Increasing%20Triplet%20Subsequence%20(334).cs)                    | O(N)   | O(1)   |
 | [443. String Compression](https://leetcode.com/problems/string-compression)                                              | Medium     | [C#](https://github.com/JustKirpro/LeetCode-Solutions/blob/main/LeetCode%2075%20Study%20Plan/Array%20%3A%20String/String%20Compression%20(443).cs)                                  | O(N)   | O(N)   |
 
+#### "Two Pointers" Section
+| Problem                                                                                    | Difficulty | Solution                                                                                                                                                   | Time | Space |
+|--------------------------------------------------------------------------------------------|------------|------------------------------------------------------------------------------------------------------------------------------------------------------------|------|-------|
+| [283. Move Zeroes](https://leetcode.com/problems/move-zeroes)                              | Easy       | [C#](https://github.com/JustKirpro/LeetCode-Solutions/blob/main/LeetCode%2075%20Study%20Plan/Two%20Pointers/Move%20Zeroes%20(283).cs)                      | O(N) | O(1)  |
+| [392. Is Subsequence](https://leetcode.com/problems/is-subsequence)                        | Easy       | [C#](https://github.com/JustKirpro/LeetCode-Solutions/blob/main/LeetCode%2075%20Study%20Plan/Two%20Pointers/Is%20Subsequence%20(392).cs)                   | O(N) | O(1)  |
+| [11. Container With Most Water](https://leetcode.com/problems/container-with-most-water)   | Medium     | [C#](https://github.com/JustKirpro/LeetCode-Solutions/blob/main/LeetCode%2075%20Study%20Plan/Two%20Pointers/Container%20With%20Most%20Water%20(11).cs)     | O(N) | O(1)  |
+| [1679. Max Number of K-Sum Pairs](https://leetcode.com/problems/max-number-of-k-sum-pairs) | Medium     | [C#](https://github.com/JustKirpro/LeetCode-Solutions/blob/main/LeetCode%2075%20Study%20Plan/Two%20Pointers/Max%20Number%20of%20K-Sum%20Pairs%20(1679).cs) | O(N) | O(N)  |
+
 ## SQL 50
 The directory SQL 50 Study Plan contains my solutions for [this study plan](https://leetcode.com/studyplan/top-sql-50).
